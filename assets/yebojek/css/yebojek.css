@@ -22,6 +22,7 @@
 
 body {
    padding-top: 0 !important;      /*  Removed the padding at the top of the page - This might conflict with bootstrap, not sure if bootstrap added the padding*/
+   background: black;   
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -31,7 +32,6 @@ body {
 /* ------------------------------------------------------------------------------- */
 
 .site-wrapper {
-   background: orange;   
 }
 
 .site-container {
@@ -151,7 +151,6 @@ a:focus {
 }
 
 .header-mid-container {
-   background: url("/assets/yebojek/img/header-2.png");
 }
 
 
@@ -236,7 +235,6 @@ a:focus {
 }
 
 .footer-top-container {
-   background: url ("/assets/yebojek/img/extra-2.png");
 }
 
 
